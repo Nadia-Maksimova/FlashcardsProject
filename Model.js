@@ -1,5 +1,5 @@
 const { EventEmitter } = require('events');
-
+// ololo
 class Model extends EventEmitter {
   // Сначала приложение находится на стартовой странице выбора темы.
   // Подумай, какие ещё страницы будут в твоём приложении?
